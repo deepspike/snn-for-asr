@@ -1,1 +1,2 @@
-# snn-for-asr
+# Deep Spiking Neural Networks for Large Vocabulary Automatic Speech Recognition
+This repository provides the code to demonstrate and facillitate the implementation of SNN-based ASR systems with Pytorch-Kaldi toolbox. The acoustic modelling is handled by the SNN implemented by Pytorch, while feature extraction, label computation, and decoding are performed with the Kaldi toolkit. The description of the system and implementation can be found at our arxiv paper [click here](https://arxiv.org/abs/1911.08373).
