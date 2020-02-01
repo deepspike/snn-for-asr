@@ -1,0 +1,3 @@
+[proto]
+dnn_out_dim = int
+T = int
